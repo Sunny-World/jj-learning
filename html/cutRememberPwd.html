@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            padding: 30px;
+        }
+
+        textarea,
+        input {
+            height: 30px;
+            line-height: 30px;
+            border-color: #d7d7d7;
+            width: 310px;
+            background-color: rgba(255, 255, 255, 1);
+            box-sizing: border-box;
+            border-width: 1px;
+            border-style: solid;
+            font-size: 12px;
+            padding-left: 10px;
+            padding-right: 10px;
+            vertical-align: middle;
+        }
+
+        textarea {
+            resize: none;
+            line-height: 28px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='App'>
+        <textarea style="ime-mode:disabled!important;" onkeyup="this.value=this.value.replace(/[\u4e00-\u9fa5]/g,'')"
+            v-model="pwd" v-show="pwd.length==0" :data-val="inputTypeVal" ref="limao"></textarea>
+        <input type="password" v-show="pwd.length>0" ref="taize" name="txtPassword" autocomplete="off" v-model="pwd">
+    </div>
+    <script src="https://cdn.bootcss.com/vue/2.6.10/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#App',
+            data: {
+                pwd: '',
+            },
+            computed: {
+                inputTypeVal() {
+                    let that = this;
+                    if (this.pwd.length > 0) {
+                        if (this.pwd.length == 1) {
+                            setTimeout(function () {
+                                let t = that.$refs.limao.value;
+                                that.$refs.taize.focus();
+                            })
+                        } else {
+                            setTimeout(function () {
+                                that.$refs.taize.focus();
+                            })
+                        }
+                        return 'password';
+                    } else {
+                        setTimeout(function () {
+                            that.$refs.limao.focus();
+                        })
+                        return 'text';
+                    }
+                }
+            },
+            methods: {
+
+            }
+        })
+    </script>
+</body>
+
+</html>
