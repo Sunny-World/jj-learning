@@ -1,0 +1,22 @@
+{
+  "name": "jj-learning",
+  "version": "1.0.0",
+  "description": "## [算法](./算法.md) ## [HTML](./html.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "doc":"doctoc ./js/算法.md"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javison666/jj-learning.git"
+  },
+  "author": "Javison <web_jwq@163.com> (https://www.jiweiqing.cn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javison666/jj-learning/issues"
+  },
+  "homepage": "https://github.com/Javison666/jj-learning#readme"
+}
