@@ -10,6 +10,7 @@
   - 浏览器
     - [http缓存原理](./WEB/浏览器/http缓存原理.md)
     - [渲染的过程与原理](./WEB/浏览器/渲染的过程与原理.md)
+    - [js-EventLoop事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
   - 网页应用
     - HTML
       - [html-xml-xhtml](./WEB/网页应用/HTML/html-xml-xhtml.md)
@@ -19,5 +20,8 @@
       - [输入框-光标处理方法](./WEB/网页应用/HTML/输入框-光标处理方法.md)
       - [输入框-去除浏览器记住密码功能](./WEB/网页应用/HTML/输入框-去除浏览器记住密码功能.md)
       - [输入框-自适应宽高(依赖jquery)](./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md)
+    - JAVASCRIPT
+      - 原生
+        - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/Ajax中的XMLHttpRequest对象详解.md)
 - JAVA
   - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
