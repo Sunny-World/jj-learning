@@ -11,6 +11,7 @@
     - [http缓存原理](./WEB/浏览器/http缓存原理.md)
     - [渲染的过程与原理](./WEB/浏览器/渲染的过程与原理.md)
     - [js-EventLoop事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
+    - [前端安全](./WEB/浏览器/前端安全.md)
   - 网页应用
     - HTML
       - [html-xml-xhtml](./WEB/网页应用/HTML/html-xml-xhtml.md)
@@ -22,6 +23,14 @@
       - [输入框-自适应宽高(依赖jquery)](./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md)
     - JAVASCRIPT
       - 原生
-        - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/Ajax中的XMLHttpRequest对象详解.md)
+        - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
+        - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
+      - Vue
+        - [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
+    - STYLE
+      - [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
 - JAVA
   - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
+- 编辑器
+  - sublime
+    - [sublime3快捷键](./编辑器/sublime/sublime3快捷键.md)
