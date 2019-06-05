@@ -24,6 +24,7 @@
       - [输入框-自适应宽高(依赖jquery)](./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md)
     - JAVASCRIPT
       - 原生
+        - [标签页关闭事件监听](./WEB/网页应用/JAVASCRIPT/原生/标签页关闭事件监听.md)
         - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
         - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
       - Vue
@@ -32,6 +33,13 @@
       - [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
 - JAVA
   - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
+- 数据库
+  - mysql
+    - [mac安装](./数据库/mysql/mac安装.md)
+    - [win安装](./数据库/mysql/win安装.md)
+    - [实用语句](./数据库/mysql/实用语句.md)
+    - [知识点](./数据库/mysql/知识点.md)
+    - [错误字典](./数据库/mysql/错误字典.md)
 - 编辑器
   - sublime
     - [sublime3快捷键](./编辑器/sublime/sublime3快捷键.md)
