@@ -1,6 +1,8 @@
 # jj-learning
 工作学习中的积累，作为沉淀也是财富。有错误的地方或者建议可以web_jwq@163.com联系我～
 
+- 正则
+  - [实用语句](./正则/实用语句.md)
 - 操作系统
   - mac
     - [实用语句](./操作系统/mac/实用语句.md)
@@ -30,19 +32,30 @@
         - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
         - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
         - [tslint.json配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
+      - npm
+        - [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
+        - 库
+          - [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
       - Vue
+        - nuxt
+          - [问题合集](./WEB/网页应用/JAVASCRIPT/Vue/nuxt/问题合集.md)
         - [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
+      - Gulp
+        - [安装](./WEB/网页应用/JAVASCRIPT/Gulp/安装.md)
     - STYLE
       - [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
 - JAVA
   - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
 - 数据库
-  - mysql
-    - [mac安装](./数据库/mysql/mac安装.md)
-    - [win安装](./数据库/mysql/win安装.md)
-    - [实用语句](./数据库/mysql/实用语句.md)
-    - [知识点](./数据库/mysql/知识点.md)
-    - [错误字典](./数据库/mysql/错误字典.md)
+  - Mysql
+    - [mac安装](./数据库/Mysql/mac安装.md)
+    - [win安装](./数据库/Mysql/win安装.md)
+    - [实用语句](./数据库/Mysql/实用语句.md)
+    - [知识点](./数据库/Mysql/知识点.md)
+    - [错误字典](./数据库/Mysql/错误字典.md)
+  - Redis
+    - [介绍](./数据库/Redis/介绍.md)
+    - [mac安装](./数据库/Redis/mac安装.md)
 - 服务器
   - nginx
     - [实用语句](./服务器/nginx/实用语句.md)
