@@ -27,6 +27,7 @@
         - [标签页关闭事件监听](./WEB/网页应用/JAVASCRIPT/原生/标签页关闭事件监听.md)
         - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
         - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
+        - [tslint.json配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
       - Vue
         - [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
     - STYLE
