@@ -1,36 +1,27 @@
-//正负值均适用，取整
-var a = ~~2.33 ;//类似parseInt
-var b= '-4.03' | 0 ;//两边变成二进制再相加
-var c= -3.33 << 0 ;//二进制后左移
+// 自定义判断元素类型JS
+function toType (obj) {
+   return ({}).toString.call(obj).match(/\s([a-zA-Z]+)/)[1].toLowerCase()
+ }
 
-//金钱千位符转化
-function (num){
-	return num.replace(/\B(?=(\d{3})+(?!\d))/g, ',')
+  //判断访问终端
+  var browser = {
+   versions: function () {
+       var u = navigator.userAgent,
+           app = navigator.appVersion;
+       return {
+           trident: u.indexOf('Trident') > -1, //IE内核
+           presto: u.indexOf('Presto') > -1, //opera内核
+           webKit: u.indexOf('AppleWebKit') > -1, //苹果、谷歌内核
+           gecko: u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1,//火狐内核
+           mobile: !!u.match(/AppleWebKit.*Mobile.*/), //是否为移动终端
+           ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/), //ios终端
+           android: u.indexOf('Android') > -1 || u.indexOf('Adr') > -1, //android终端
+           iPhone: u.indexOf('iPhone') > -1, //是否为iPhone或者QQHD浏览器
+           iPad: u.indexOf('iPad') > -1, //是否iPad
+           webApp: u.indexOf('Safari') == -1, //是否web应该程序，没有头部与底部
+           weixin: u.indexOf('MicroMessenger') > -1, //是否微信 
+           qq: u.match(/\sQQ/i) == " qq" //是否QQ
+       };
+   }(),
+   language: (navigator.browserLanguage || navigator.language).toLowerCase()
 }
-//或
-function formatCash(str) {
-   return str.split('').reverse().reduce((prev, next, index) => {
-        return ((index % 3) ? next : (next + ',')) + prev
-   })
-}
-
-//交换数值（二进制的异运算）
-a ^= b;
-b ^= a;
-a ^= b;
-
-//把"1"字符串转换成数字
-var a='1';
-+a;
-
-//数组去重
-console.log( [...new Set([1, "1", 2, 1, 1, 3])] )
-
-//取最大值与最小值，负数适用
-var numbers = [5, 458 , 120 , -215 , 228 , 400 , 122205, -85411]; 
-var maxInNumbers = Math.max.apply(Math, numbers); 
-var minInNumbers = Math.min.apply(Math, numbers);
-
-//将argruments对象转换成数组
-var argArray = Array.prototype.slice.call(arguments);
-var argArray = Array.from(arguments)

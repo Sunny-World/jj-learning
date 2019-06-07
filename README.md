@@ -17,6 +17,8 @@
     - [js-EventLoop事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
     - [前端安全](./WEB/浏览器/前端安全.md)
   - 网页应用
+    - 外部应用
+      - [QQ](./WEB/网页应用/外部应用/QQ.md)
     - HTML
       - [html-xml-xhtml](./WEB/网页应用/HTML/html-xml-xhtml.md)
       - [meta-字典](./WEB/网页应用/HTML/meta-字典.md)
@@ -28,22 +30,31 @@
       - [输入框-自适应宽高(依赖jquery)](./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md)
     - JAVASCRIPT
       - 原生
+        - Dom
+          - [实用语句](./WEB/网页应用/JAVASCRIPT/原生/Dom/实用语句.md)
         - [标签页关闭事件监听](./WEB/网页应用/JAVASCRIPT/原生/标签页关闭事件监听.md)
         - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
         - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
         - [tslint.json配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
+        - [encodeURIComponent与Java的区别](./WEB/网页应用/JAVASCRIPT/原生/encodeURIComponent与Java的区别.md)
       - npm
         - [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
         - 库
+          - [jj-browser-fn](https://github.com/Javison666/jj-browser-fn)
           - [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
+          - [live-server](./WEB/网页应用/JAVASCRIPT/npm/库/live-server.md)
       - Vue
         - nuxt
           - [问题合集](./WEB/网页应用/JAVASCRIPT/Vue/nuxt/问题合集.md)
+        - [jj-vue-components](https://hangzhou-zhiwang.github.io/jj-vue-components/dist/#/)
         - [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
       - Gulp
         - [安装](./WEB/网页应用/JAVASCRIPT/Gulp/安装.md)
     - STYLE
+      - [合集](./WEB/网页应用/STYLE/合集.md)
       - [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
+      - [容器自适应宽高](./WEB/网页应用/STYLE/容器自适应宽高.md)
+      - [IE兼容](./WEB/网页应用/STYLE/IE兼容.md)
 - JAVA
   - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
 - 数据库
