@@ -45,6 +45,8 @@
           - [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
           - [live-server](./WEB/网页应用/JAVASCRIPT/npm/库/live-server.md)
       - Vue
+        - vuex
+          - [解读Vuex](./WEB/网页应用/JAVASCRIPT/Vue/vuex/解读Vuex.md)
         - nuxt
           - [问题合集](./WEB/网页应用/JAVASCRIPT/Vue/nuxt/问题合集.md)
         - [jj-vue-components](https://hangzhou-zhiwang.github.io/jj-vue-components/dist/#/)
