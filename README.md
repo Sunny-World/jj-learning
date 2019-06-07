@@ -78,6 +78,4 @@
 
 ## 请我喝杯果汁呗～
 
-![Image text](https://github.com/Javison666/jj-learning/blob/master/image/alipay.jpg?raw=true)
-
-![Image text](https://github.com/Javison666/jj-learning/blob/master/image/wechat.jpg?raw=true)
+![Image text](https://github.com/Javison666/jj-learning/blob/master/image/alipay.jpg?raw=true)![Image text](https://github.com/Javison666/jj-learning/blob/master/image/wechat.jpg?raw=true)
