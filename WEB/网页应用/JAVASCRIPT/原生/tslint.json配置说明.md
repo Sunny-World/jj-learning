@@ -1,5 +1,13 @@
 # tslint.json配置说明
 
+```
+/ tslint:disable /——忽略该行以下所有代码出现的错误提示
+/ tslint:enable /——当前ts文件重新启用tslint
+// tslint:disable-line——忽略当前行代码出现的错误提示
+// tslint:disable-next-line——忽略下一行代码出现的错误提示
+```
+
+
 ```json
 rules:  规则
 {
