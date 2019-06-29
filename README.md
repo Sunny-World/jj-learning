@@ -1,86 +1,88 @@
 # jj-learning
-工作学习中的积累，作为沉淀也是财富。有错误的地方或者建议可以web_jwq@163.com联系我～
 
-- 正则
-  - [实用语句](./正则/实用语句.md)
-- 操作系统
-  - mac
-    - [实用语句](./操作系统/mac/实用语句.md)
-    - [ntsf适配](./操作系统/mac/ntsf适配.md)
-  - ubuntu
-    - [问题合集](./操作系统/ubuntu/问题合集.md)
-- 算法
-  - [十大经典算法](./算法/十大经典算法.md)
-- 公共接口
-  - [实用接口](./公共接口//实用接口.md)
-- WEB
-  - 浏览器
-    - [http缓存原理](./WEB/浏览器/http缓存原理.md)
-    - [渲染的过程与原理](./WEB/浏览器/渲染的过程与原理.md)
-    - [js-EventLoop事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
-    - [前端安全](./WEB/浏览器/前端安全.md)
-  - 网页应用
-    - 外部应用
-      - [QQ](./WEB/网页应用/外部应用/QQ.md)
-    - HTML
-      - [html-xml-xhtml](./WEB/网页应用/HTML/html-xml-xhtml.md)
-      - [meta-字典](./WEB/网页应用/HTML/meta-字典.md)
-      - [a标签-_blank危险与opener](./WEB/网页应用/HTML/a标签-_blank危险与opener.md)
-      - [复制-源码](./WEB/网页应用/HTML/复制.md)
-      - [滚动条-内外不联动处理-源码](./WEB/网页应用/HTML/滚动条-内外不联动处理.md)
-      - [输入框-光标处理方法-源码](./WEB/网页应用/HTML/输入框-光标处理方法.md)
-      - [输入框-去除浏览器记住密码功能-源码](./WEB/网页应用/HTML/输入框-去除浏览器记住密码功能.md)
-      - [输入框-自适应宽高(依赖jquery)-源码](./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md)
-    - JAVASCRIPT
-      - 原生
-        - Dom
-          - [实用语句](./WEB/网页应用/JAVASCRIPT/原生/Dom/实用语句.md)
-        - [标签页关闭事件监听](./WEB/网页应用/JAVASCRIPT/原生/标签页关闭事件监听.md)
-        - [Ajax中的XMLHttpRequest对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
-        - [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
-        - [tslint.json配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
-        - [encodeURIComponent与Java的区别](./WEB/网页应用/JAVASCRIPT/原生/encodeURIComponent与Java的区别.md)
-      - npm
-        - [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
-        - 库
-          - [jj-browser-fn](https://github.com/Javison666/jj-browser-fn)
-          - [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
-          - [live-server](./WEB/网页应用/JAVASCRIPT/npm/库/live-server.md)
-      - Vue
-        - vuex
-          - [解读Vuex](./WEB/网页应用/JAVASCRIPT/Vue/vuex/解读Vuex.md)
-        - nuxt
-          - [问题合集](./WEB/网页应用/JAVASCRIPT/Vue/nuxt/问题合集.md)
-        - [jj-vue-components](https://hangzhou-zhiwang.github.io/jj-vue-components/dist/#/)
-        - [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
-      - Gulp
-        - [安装](./WEB/网页应用/JAVASCRIPT/Gulp/安装.md)
-    - STYLE
-      - [合集](./WEB/网页应用/STYLE/合集.md)
-      - [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
-      - [容器自适应宽高](./WEB/网页应用/STYLE/容器自适应宽高.md)
-      - [IE兼容](./WEB/网页应用/STYLE/IE兼容.md)
-- JAVA
-  - [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
-- 数据库
-  - Mysql
-    - [mac安装](./数据库/Mysql/mac安装.md)
-    - [win安装](./数据库/Mysql/win安装.md)
-    - [实用语句](./数据库/Mysql/实用语句.md)
-    - [知识点](./数据库/Mysql/知识点.md)
-    - [错误字典](./数据库/Mysql/错误字典.md)
-  - Redis
-    - [介绍](./数据库/Redis/介绍.md)
-    - [mac安装](./数据库/Redis/mac安装.md)
-- 服务器
-  - nginx
-    - [实用语句](./服务器/nginx/实用语句.md)
-    - [mac用法](./服务器/nginx/mac用法.md)
-- 编辑器
-  - sublime
-    - [sublime3快捷键](./编辑器/sublime/sublime3快捷键.md)
+工作学习中的积累，作为沉淀也是财富。有错误的地方或者建议可以 web_jwq@163.com 联系我～
 
-
+-   正则
+    -   [实用语句](./正则/实用语句.md)
+-   操作系统
+    -   命令行
+        -   [实用指令](./操作系统/命令行/实用指令.md)
+    -   mac
+        -   [实用语句](./操作系统/mac/实用语句.md)
+        -   [ntsf 适配](./操作系统/mac/ntsf适配.md)
+    -   ubuntu
+        -   [问题合集](./操作系统/ubuntu/问题合集.md)
+-   算法
+    -   [十大经典算法](./算法/十大经典算法.md)
+-   公共接口
+    -   [实用接口](./公共接口//实用接口.md)
+-   WEB
+    -   浏览器
+        -   [http 缓存原理](./WEB/浏览器/http缓存原理.md)
+        -   [渲染的过程与原理](./WEB/浏览器/渲染的过程与原理.md)
+        -   [js-EventLoop 事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
+        -   [前端安全](./WEB/浏览器/前端安全.md)
+    -   网页应用
+        -   外部应用
+            -   [QQ](./WEB/网页应用/外部应用/QQ.md)
+        -   HTML
+            -   [html-xml-xhtml](./WEB/网页应用/HTML/html-xml-xhtml.md)
+            -   [meta-字典](./WEB/网页应用/HTML/meta-字典.md)
+            -   [iframe](./WEB/网页应用/HTML/iframe.md)
+            -   [a 标签-\_blank 危险与 opener](./WEB/网页应用/HTML/a标签-_blank危险与opener.md)
+            -   [复制-源码](./WEB/网页应用/HTML/复制.md)
+            -   [滚动条-内外不联动处理-源码](./WEB/网页应用/HTML/滚动条-内外不联动处理.md)
+            -   [输入框-光标处理方法-源码](./WEB/网页应用/HTML/输入框-光标处理方法.md)
+            -   [输入框-去除浏览器记住密码功能-源码](./WEB/网页应用/HTML/输入框-去除浏览器记住密码功能.md)
+            -   [输入框-自适应宽高(依赖 jquery)-源码](<./WEB/网页应用/HTML/输入框-自适应宽高(依赖jquery).md>)
+        -   JAVASCRIPT
+            -   原生
+                -   Dom
+                    -   [实用语句](./WEB/网页应用/JAVASCRIPT/原生/Dom/实用语句.md)
+                -   [标签页关闭事件监听](./WEB/网页应用/JAVASCRIPT/原生/标签页关闭事件监听.md)
+                -   [Ajax 中的 XMLHttpRequest 对象详解](./WEB/网页应用/JAVASCRIPT/原生/Ajax中的XMLHttpRequest对象详解.md)
+                -   [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
+                -   [tslint.json 配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
+                -   [encodeURIComponent 与 Java 的区别](./WEB/网页应用/JAVASCRIPT/原生/encodeURIComponent与Java的区别.md)
+            -   npm
+                -   [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
+                -   库
+                    -   [jj-browser-fn](https://github.com/Javison666/jj-browser-fn)
+                    -   [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
+                    -   [live-server](./WEB/网页应用/JAVASCRIPT/npm/库/live-server.md)
+            -   Vue
+                -   vuex
+                    -   [解读 Vuex](./WEB/网页应用/JAVASCRIPT/Vue/vuex/解读Vuex.md)
+                -   nuxt
+                    -   [问题合集](./WEB/网页应用/JAVASCRIPT/Vue/nuxt/问题合集.md)
+                -   [jj-vue-components](https://hangzhou-zhiwang.github.io/jj-vue-components/dist/#/)
+                -   [经典开源项目](./WEB/网页应用/JAVASCRIPT/Vue/经典开源项目.md)
+            -   Gulp
+                -   [安装](./WEB/网页应用/JAVASCRIPT/Gulp/安装.md)
+        -   STYLE
+            -   [合集](./WEB/网页应用/STYLE/合集.md)
+            -   [元素隐藏及妙用](./WEB/网页应用/STYLE/元素隐藏及妙用.md)
+            -   [容器自适应宽高](./WEB/网页应用/STYLE/容器自适应宽高.md)
+            -   [IE 兼容](./WEB/网页应用/STYLE/IE兼容.md)
+-   JAVA
+    -   [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
+-   数据库
+    -   Mysql
+        -   [mac 安装](./数据库/Mysql/mac安装.md)
+        -   [win 安装](./数据库/Mysql/win安装.md)
+        -   [实用语句](./数据库/Mysql/实用语句.md)
+        -   [知识点](./数据库/Mysql/知识点.md)
+        -   [错误字典](./数据库/Mysql/错误字典.md)
+    -   Redis
+        -   [介绍](./数据库/Redis/介绍.md)
+        -   [mac 安装](./数据库/Redis/mac安装.md)
+-   服务器
+    -   nginx
+        -   [实用语句](./服务器/nginx/实用语句.md)
+        -   [mac 用法](./服务器/nginx/mac用法.md)
+-   编辑器
+    -   sublime
+        -   [sublime3 快捷键](./编辑器/sublime/sublime3快捷键.md)
 
 ## 请我喝杯果汁呗～
 
