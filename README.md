@@ -44,6 +44,8 @@
                 -   [奇技淫巧](./WEB/网页应用/JAVASCRIPT/原生/奇技淫巧.md)
                 -   [tslint.json 配置说明](./WEB/网页应用/JAVASCRIPT/原生/tslint.json配置说明.md)
                 -   [encodeURIComponent 与 Java 的区别](./WEB/网页应用/JAVASCRIPT/原生/encodeURIComponent与Java的区别.md)
+            -   数据结构和算法
+                -   [目录](./WEB/网页应用/JAVASCRIPT/数据结构和算法/目录.md)
             -   npm
                 -   [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
                 -   库
