@@ -2,6 +2,8 @@
 
 工作学习中的积累，作为沉淀也是财富。有错误的地方或者建议可以 web_jwq@163.com 联系我～
 
+-   [文档地址](https://sunny-world.github.io/jj-learning/)
+
 -   正则
     -   [实用语句](./正则/实用语句.md)
 -   操作系统
@@ -90,4 +92,4 @@
 
 ## 请我喝杯果汁呗～
 
-![Image text](https://github.com/Javison666/jj-learning/blob/master/image/alipay.jpg?raw=true)![Image text](https://github.com/Javison666/jj-learning/blob/master/image/wechat.jpg?raw=true)
+![Image text](https://github.com/sunny-world/jj-learning/blob/master/image/alipay.jpg?raw=true)![Image text](https://github.com/sunny-world/jj-learning/blob/master/image/wechat.jpg?raw=true)
