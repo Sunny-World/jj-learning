@@ -51,9 +51,10 @@
             -   npm
                 -   [实用语句](./WEB/网页应用/JAVASCRIPT/npm/实用语句.md)
                 -   库
-                    -   [jj-browser-fn](https://github.com/Javison666/jj-browser-fn)
+                    -   [jwq个人维护库](https://jiweiqing.cn)
                     -   [pm2](./WEB/网页应用/JAVASCRIPT/npm/库/pm2.md)
                     -   [live-server](./WEB/网页应用/JAVASCRIPT/npm/库/live-server.md)
+                    -   [nrm](./WEB/网页应用/JAVASCRIPT/npm/库/nrm.md)
             -   Vue
                 -   vuex
                     -   [解读 Vuex](./WEB/网页应用/JAVASCRIPT/Vue/vuex/解读Vuex.md)
