@@ -74,6 +74,8 @@
 -   JAVA
     -   [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
     -   [项目搭建](./JAVA/项目搭建.md)
+    -   编辑器
+        -   [IDEA](./java/编辑器/IDEA.md)
 -   数据库
     -   Mysql
         -   [mac 安装](./数据库/Mysql/mac安装.md)
