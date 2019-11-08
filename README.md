@@ -72,8 +72,10 @@
     -   Electron
         -   [实用语句](./WEB/Electron/实用语句.md)
 -   JAVA
-    -   [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
-    -   [项目搭建](./JAVA/项目搭建.md)
+    -   [面向对象的程序设计方式](./java/面向对象的程序设计方式.md)
+    -   [项目搭建](./java/项目搭建.md)
+    -   maven
+        -   [实用指令](./java/maven/实用指令.md)
     -   编辑器
         -   [IDEA](./java/编辑器/IDEA.md)
 -   数据库
