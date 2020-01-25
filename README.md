@@ -7,13 +7,17 @@
 -   正则
     -   [实用语句](./正则/实用语句.md)
 -   操作系统
+    -   linux
+        -   ubuntu
+            -   [问题合集](./操作系统/ubuntu/问题合集.md)  
+        -   centos
+            -   [VMware虚拟机CentOS与宿主机共享目录](./操作系统/linux/ubuntu/问题合集.md)
     -   命令行
         -   [实用指令](./操作系统/命令行/实用指令.md)
     -   mac
         -   [实用语句](./操作系统/mac/实用语句.md)
         -   [ntsf 适配](./操作系统/mac/ntsf适配.md)
-    -   ubuntu
-        -   [问题合集](./操作系统/ubuntu/问题合集.md)
+    
 -   算法
     -   [十大经典算法](./算法/十大经典算法.md)
 -   公共接口
@@ -25,6 +29,8 @@
         -   [js-EventLoop 事件循环](./WEB/浏览器/js-EventLoop事件循环.md)
         -   [前端安全](./WEB/浏览器/前端安全.md)
     -   网页应用
+        -   测试
+            -   [autocannon](./WEB/测试/性能测试.md)
         -   外部应用
             -   [QQ](./WEB/网页应用/外部应用/QQ.md)
         -   HTML
@@ -72,7 +78,12 @@
     -   Electron
         -   [实用语句](./WEB/Electron/实用语句.md)
 -   JAVA
-    -   [面向对象的程序设计方式](./JAVA/面向对象的程序设计方式.md)
+    -   [面向对象的程序设计方式](./java/面向对象的程序设计方式.md)
+    -   [项目搭建](./java/项目搭建.md)
+    -   maven
+        -   [实用指令](./java/maven/实用指令.md)
+    -   编辑器
+        -   [IDEA](./java/编辑器/IDEA.md)
 -   数据库
     -   Mysql
         -   [mac 安装](./数据库/Mysql/mac安装.md)
@@ -90,6 +101,10 @@
 -   编辑器
     -   sublime
         -   [sublime3 快捷键](./编辑器/sublime/sublime3快捷键.md)
+-   [特殊值](./特殊值/index.md)
+-   [文件系统](./文件系统/文件格式.md)
+-   lua
+    -   [pairs与ipairs的区别](lua/pairs与ipairs的区别.md)
 
 ## 请我喝杯果汁呗～
 
