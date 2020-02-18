@@ -89,6 +89,11 @@ rules:  规则
             "typeLiterals": "ignore"
         },
         "esSpecCompliant": true //是否允许尾随逗号出现在剩余变量中
-    }]
+    }],
+    "variable-name":[false,"check-format",
+            "allow-leading-underscore",
+            "allow-trailing-underscore",
+            "ban-keywords"],//变量定义
+    "class-name":false,// 驼峰
 }
 ```
