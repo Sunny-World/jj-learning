@@ -106,7 +106,9 @@
 -   [文件系统](./文件系统/文件格式.md)
 -   lua
     -   [pairs与ipairs的区别](lua/pairs与ipairs的区别.md)
-
+-   docker
+    -   [宝塔安装](docker/宝塔安装.md)
+    
 ## 请我喝杯果汁呗～
 
 ![Image text](https://github.com/sunny-world/jj-learning/blob/master/image/alipay.jpg?raw=true)![Image text](https://github.com/sunny-world/jj-learning/blob/master/image/wechat.jpg?raw=true)
